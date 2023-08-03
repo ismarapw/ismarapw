@@ -12,8 +12,8 @@ I am a corious learner and can adapt to differents roles (**Front-End, Back-End,
 
 ### 📊 Github Stats:
 <a href="#">
-  <img height=230 align="center" src="https://github-readme-stats.vercel.app/api?username=ismarapw&show=reviews" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ismarapw&show=reviews&show_icons=true&hide_rank=true" />
 </a>
 <a href="#">
-  <img height=230 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismarapw&layout=donut" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismarapw&hide_progress=true&card_width=100" />
 </a>
