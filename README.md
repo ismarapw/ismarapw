@@ -15,5 +15,5 @@ I am a corious learner and can adapt to differents roles (**Front-End, Back-End,
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ismarapw&show=reviews&show_icons=true&hide_rank=true" />
 </a>
 <a href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismarapw&hide_progress=true&card_width=100" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismarapw&layout=compact" />
 </a>
