@@ -15,11 +15,5 @@ I am a corious learner and can adapt to differents roles (**Front-End, Back-End,
 <a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://github.com/ismarapw/ismarapw/blob/main/assets/tensorflow.svg" alt="pytorch" height="42px"/> </a> 
 <a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://github.com/ismarapw/ismarapw/blob/main/assets/flask.svg" alt="pytorch" height="36px"/> </a> 
 <a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://github.com/ismarapw/ismarapw/blob/main/assets/pandas.svg" alt="pytorch" height="42px"/> </a> 
-<a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://github.com/ismarapw/ismarapw/blob/main/assets/tensorflow.svg" alt="pytorch" height="42px"/> </a> 
-<a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://github.com/ismarapw/ismarapw/blob/main/assets/tensorflow.svg" alt="pytorch" height="42px"/> </a> 
-<a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://github.com/ismarapw/ismarapw/blob/main/assets/tensorflow.svg" alt="pytorch" height="42px"/> </a> 
-<a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://github.com/ismarapw/ismarapw/blob/main/assets/tensorflow.svg" alt="pytorch" height="42px"/> </a> 
-<a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://github.com/ismarapw/ismarapw/blob/main/assets/tensorflow.svg" alt="pytorch" height="42px"/> </a> 
-
 
 
