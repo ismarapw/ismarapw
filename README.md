@@ -10,4 +10,10 @@ I am a corious learner and can adapt to differents roles (**Front-End, Back-End,
 - 💬 &nbsp; Feel free to inquire about any tech-related topics; I'm delighted to provide assistance.
 - 📫 &nbsp; Let's get in touch and collaborate on exciting projects! [LinkedIn](https://www.linkedin.com/in/rahul-jha98/)
 
-
+### 📊 Github Stats:
+<a href="#">
+  <img height=230 align="center" src="https://github-readme-stats.vercel.app/api?username=ismarapw&show=reviews" />
+</a>
+<a href="#">
+  <img height=230 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismarapw&layout=donut" />
+</a>
