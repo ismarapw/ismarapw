@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Ismar
 
-I am a corious learner and can adapt to differents roles (**Data Scientist/ML Engineer, Front-End, Back-End or Full-Stack :D**). My passion lies in exploring new tech stacks and utilizing them to construct impressive creations.
+I am a corious learner and can adapt to differents roles (**Data Scientist, ML Engineer and Web Developer :D**). My passion lies in exploring new tech stacks and utilizing them to construct impressive creations.
 
 ### 🫣 More About Me:
 
