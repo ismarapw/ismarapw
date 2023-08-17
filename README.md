@@ -28,12 +28,3 @@ I am a corious learner and can adapt to differents roles (**Data Scientist, ML E
   <img src="https://img.shields.io/badge/mysql-%2320232a.svg?style=for-the-badge&logo=mysql" alt="mysql"/>
   <img src="https://img.shields.io/badge/postgresql-%2320232a.svg?style=for-the-badge&logo=postgresql" alt="postgresql"/>
 </div>
-
-
-### 📊 Github Stats:
-<a href="#">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=ismarapw&show=reviews&show_icons=true&hide_rank=true" />
-</a>
-<a href="#">
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismarapw&layout=compact" />
-</a>
