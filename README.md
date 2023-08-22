@@ -11,7 +11,7 @@ I am a corious learner and can adapt to differents roles (**Data Scientist, ML E
 - 📫 &nbsp; Let's get in touch and collaborate on exciting projects! [LinkedIn](https://www.linkedin.com/in/rahul-jha98/)
 
 
-### 🛠 Languages and Technologies:
+### 🛠 Languages Used So Far:
 <div display="flex">
   <img src="https://img.shields.io/badge/python-%2320232a.svg?style=for-the-badge&logo=python" alt="Python"/>
   <img src="https://img.shields.io/badge/tensorflow-%2320232a.svg?style=for-the-badge&logo=tensorflow" alt="tensorflow"/>
