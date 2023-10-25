@@ -5,7 +5,7 @@ I am a corious learner and can adapt to differents roles (**Data Scientist, ML E
 ### 🫣 More About Me:
 
 - 🧑‍🎓 &nbsp; I'm a fresh graduate Copmputer Science student (Concentrated at Machine Learning). 
-- 💻 &nbsp; I’m currently learning JavaScript as a Full Stack Development.
+- 💻 &nbsp; I’m currently seeking an oppurtunity to grow (internship, freelance, part-time, full-time)
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ismarapw?tab=repositories).
 - 💬 &nbsp; Feel free to inquire about any tech-related topics; I'm delighted to provide assistance.
 - 📫 &nbsp; Let's get in touch and collaborate on exciting projects! [LinkedIn](https://www.linkedin.com/in/rahul-jha98/)
