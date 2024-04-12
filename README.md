@@ -1,14 +1,14 @@
 ### Hi there 👋, I'm Ismar
 
-I am a corious learner and can adapt to differents roles (**Data Scientist, ML Engineer and Web Developer :D**). My passion lies in exploring new tech stacks and utilizing them to construct impressive creations.
+I am a curious learner and can adapt to different roles (**Data Scientist, ML Engineer, and Web Developer :D**). My passion lies in exploring new tech stacks and utilizing them to construct impressive creations.
 
 ### 🫣 More About Me:
 
-- 🧑‍🎓 &nbsp; I'm a fresh graduate Computer Science student (Concentrated at Machine Learning). 
-- 💻 &nbsp; I’m currently seeking an oppurtunity to grow (internship, freelance, part-time, full-time)
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ismarapw?tab=repositories).
-- 💬 &nbsp; Feel free to inquire about any tech-related topics; I'm delighted to provide assistance.
-- 📫 &nbsp; Let's get in touch and collaborate on exciting projects! [LinkedIn](https://www.linkedin.com/in/rahul-jha98/)
+- 🧑‍🎓 &nbsp; I am a Computer Science graduate. (Concentrated in Machine Learning). 
+- 💻 &nbsp; I’m currently a freelancer at [Upwork](https://www.upwork.com/freelancers/~017e13c27ce0e69037).
+- 👨🏻‍💻 &nbsp; Most of my open projects are available on [Github](https://github.com/ismarapw?tab=repositories).
+- 💬 &nbsp; Feel free to inquire about any tech-related topics; I'm delighted to assist.
+- 📫 &nbsp; Let's connect and collaborate on exciting projects! [LinkedIn](https://www.linkedin.com/in/rahul-jha98/)
 
 
 ### 🛠 Technologies Used So Far:
