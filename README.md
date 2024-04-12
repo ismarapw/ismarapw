@@ -15,6 +15,7 @@ I am a curious learner and can adapt to different roles (**Data Scientist, ML En
 <div display="flex">
   <img src="https://img.shields.io/badge/python-%2320232a.svg?style=for-the-badge&logo=python" alt="Python"/>
   <img src="https://img.shields.io/badge/tensorflow-%2320232a.svg?style=for-the-badge&logo=tensorflow" alt="tensorflow"/>
+  <img src="https://img.shields.io/badge/pytorch-%2320232a.svg?style=for-the-badge&logo=pytorch" alt="pytorch"/>
   <img src="https://img.shields.io/badge/flask-%2320232a.svg?style=for-the-badge&logo=flask" alt="flask"/>
   <img src="https://img.shields.io/badge/pandas-%2320232a.svg?style=for-the-badge&logo=pandas" alt="pandas"/>
   <img src="https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript" alt="JavaScript"/>
