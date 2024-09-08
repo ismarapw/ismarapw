@@ -5,7 +5,7 @@ I am a curious learner and can adapt to different roles (**Data Scientist, ML En
 ### 🫣 More About Me:
 
 - 🧑‍🎓 &nbsp; I am a Computer Science graduate. (Concentrated in Machine Learning). 
-- 💻 &nbsp; I’m currently a freelancer at [Upwork](https://www.upwork.com/freelancers/~017e13c27ce0e69037).
+- 💻 &nbsp; I’m also a freelancer at [Upwork](https://www.upwork.com/freelancers/~017e13c27ce0e69037).
 - 👨🏻‍💻 &nbsp; Most of my open projects are available on [Github](https://github.com/ismarapw?tab=repositories).
 - 💬 &nbsp; Feel free to inquire about any tech-related topics; I'm delighted to assist.
 - 📫 &nbsp; Let's connect and collaborate on exciting projects! [LinkedIn](https://www.linkedin.com/in/rahul-jha98/)
